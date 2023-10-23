@@ -1,0 +1,44 @@
+{
+    "words": [
+        {
+            "english": "apple",
+            "french": "pomme"
+        },
+        {
+            "english": "banana",
+            "french": "banane"
+        },
+        {
+            "english": "car",
+            "french": "voiture"
+        },
+        {
+            "english": "dog",
+            "french": "chien"
+        },
+        {
+            "english": "cat",
+            "french": "chat"
+        },
+        {
+            "english": "house",
+            "french": "maison"
+        },
+        {
+            "english": "tree",
+            "french": "arbre"
+        },
+        {
+            "english": "book",
+            "french": "livre"
+        },
+        {
+            "english": "computer",
+            "french": "ordinateur"
+        },
+        {
+            "english": "phone",
+            "french": "téléphone"
+        }
+    ]
+}
